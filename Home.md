@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Course Information 
+title: Home
 order: 1
 ---
