@@ -3,7 +3,7 @@ title:               Empirical Industrial Organization
 tagline:             'Ying Zheng'
 description:         'Empirical IO'
 url:                 https://yingzheng-econ.github.io/Empirical-IO-Course//
-baseurl:             ''
+baseurl:             'https://yingzheng-econ.github.io/Empirical-IO-Course//'
 paginate:            5
 permalink:           pretty
 
