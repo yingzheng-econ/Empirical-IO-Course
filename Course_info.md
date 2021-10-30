@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Overview 
+title: Course Information 
 order: 1
 ---
