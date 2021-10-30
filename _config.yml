@@ -1,7 +1,7 @@
 # Setup
 title:               Empirical Industrial Organization
 tagline:             'Ying Zheng'
-description:         'Empirical IO Course'
+description:         'Empirical IO'
 url:                 https://yingzheng-econ.github.io/Empirical-IO-Course/
 baseurl:             ''
 paginate:            5
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Ying Zheng
-  url:               
+  url:
   email:             yingzheng@ruc.edu.cn
 
 # Gems
