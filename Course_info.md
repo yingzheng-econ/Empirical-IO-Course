@@ -20,7 +20,7 @@ order: 1
 ***
 
 ## Syllabus
-  - Official syllabus([pdf](./Syllabus-EIO-RUC-2021-Fall-EN.pdf))
+- Official syllabus([pdf](./Syllabus-EIO-RUC-2021-Fall-EN.pdf))
 
 ***
 
