@@ -3,6 +3,7 @@ layout: page
 title: Course Information
 order: 1
 ---
+***
 
 ## Contact Information
 **Instructor:** [Ying Zheng](https://yingzheng-econ.github.io)  
@@ -38,3 +39,5 @@ Depending on the size of final enrollment and class schedule, each student will 
 - discuss weaknesses of the paper;  
 - make suggestions for further research;  
 - **(for one paper) replicate the key finding of the paper** (will be specifically required by the instructor).
+
+***
