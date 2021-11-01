@@ -14,6 +14,7 @@ order: 3
      - **Bresnahan, T. F.(1989):** "Empirical Studies of Industries with Market Power," *Handbook of Industrial Organization*, 2(89), 1011–1057.  
      - **Reiss, P. C., and F. A. Wolak (2007):** "Structural Econometric Modeling: Rationales and Examples from Industrial Organization," in *Handbook of Econometrics*, vol. 6, pp. 4277–4415.  
      - Chapter 1 of **Aguirregabiria(2019).**
+
 ***
 
 - ### Lecture 2: Review of Game Theory  
@@ -26,6 +27,7 @@ order: 3
 
     <span style="border-bottom:1.5px solid">**Required Reading:** </span>  
     - Part II in **MWG**(Game Theory, Chapters 7, 8 and 9).  
+
 ***
 
 - ### Lecture 3&4: Classical Oligopoly Theory  
