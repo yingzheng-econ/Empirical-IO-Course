@@ -5,7 +5,7 @@ order: 3
 ---
 ***
 
-### - Lecture 1: Introduction to (New) Empirical Industrial Organization 
+- ### Lecture 1: Introduction to (New) Empirical Industrial Organization 
     * Economic questions and data in EIO;  
     * Examples of structural models in EIO;  
     * Skills required to conduct EIO researches
