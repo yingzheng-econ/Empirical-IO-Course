@@ -45,6 +45,8 @@ order: 3
     - **Kreps, D. M., and J. A. Scheinkman (1983):** “Quantity Precommitment and Bertrand Competition Yield Cournot Outcomes,” *Bell Journal of Economics*, 14(2), 326–337.  
     - **Klemperer, P. D., and M. A. Meyer (1989):** “Supply Function Equilibria in Oligopoly under Uncertainty,” *Econometrica*, 57(6), 1243–1277.  
 
+***
+
 - ### Lecture 5&6: Empirical Static Oligopoly Models with Complete Information  
 
     * Identification of marginal cost and/or market conduct(or structure or ownership) for markets with
@@ -64,6 +66,8 @@ order: 3
     - **Wilson, R. (2002):** “Architecture of Power Markets,” *Econometrica*, 70(4), 1299–1340.  
     - **Cramton, P. (2017):** “Electricity Market Design,” *Oxford Review of Economic Policy*, 33(4), 589–612.  
 
+***
+
 - ### Lecture 7&8: Empirical Models of Static Oligopoly Models with Incomplete Information  
 
     * Standard auctions and bidding strategies;  
@@ -77,6 +81,14 @@ order: 3
     - **Wolak, F. A. (2003):** “Measuring Unilateral Market Power in Wholesale Electricity Markets: The California Market, 1998-2000,” *American Economic Review*, 93(2), 425–430.  
     - **Hortaçsu, A., and S. L. Puller (2008):** “Understanding Strategic Bidding in Multi-Unit Auctions: A Case Study of the Texas Electricity Spot Market,” *RAND Journal of Economics*, 39(1), 86–114.  
 
+***
+
 - ### Lecture 9&10: Empirical Models of Two-Stage Oligopoly Models  
 
-- ### Lecture 11&12: Multiunit Auctions: Uniform or Discriminatory  
+***
+
+- ### Lecture 11&12: Multiunit Auctions: Uniform or Discriminatory
+
+
+
+  
