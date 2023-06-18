@@ -12,23 +12,23 @@ order: 3
      - **Reiss, P. C., and F. A. Wolak (2007):** "Structural Econometric Modeling: Rationales and Examples from Industrial Organization," in *Handbook of Econometrics*, vol. 6, pp. 4277–4415.  
      - Chapter 1 of **Aguirregabiria(2021).**
      
-    * Economic questions and data in EIO;  
-    * Examples of structural models in EIO;  
-    * Skills required to conduct EIO researches.
+* Economic questions and data in EIO;  
+* Examples of structural models in EIO;  
+* Skills required to conduct EIO researches.
 
 ***
 
 - ### Lecture 2: Demand Estimation  
 
     <span style="border-bottom:1.5px solid">**Required Reading:** </span>  
-    - Chapter 2 of **Aguirregabiria(2021).
+    - Chapter 2 of **Aguirregabiria(2021).**
 
 ***
 
 - ### Lecture 3: Production Estimation
 
     <span style="border-bottom:1.5px solid">**Required Reading:** </span>  
-    - Chapter 3 of **Aguirregabiria(2021).
+    - Chapter 3 of **Aguirregabiria(2021).**
 
 ***
 
@@ -37,11 +37,11 @@ order: 3
     <span style="border-bottom:1.5px solid">**Required Reading:** </span>  
     - Part II in MWG (Game Theory, Chapters 7, 8 and 9).
 
-    * Dominant strategies and rationalizable strategies;
-    * Nash Equilibrium (NE) in static games of complete information;
-    * Bayesian Nash Equilibrium (BNE) in static games of incomplete information;
-    * Subgame Perfect Nash Equilibrium (SPNE) in dynamic games of complete information
-    * (**Optional**) Perfect Bayesian Equilibrium (PBE) in dynamic games of incomplete information
+* Dominant strategies and rationalizable strategies;
+* Nash Equilibrium (NE) in static games of complete information;
+* Bayesian Nash Equilibrium (BNE) in static games of incomplete information;
+* Subgame Perfect Nash Equilibrium (SPNE) in dynamic games of complete information
+* (**Optional**) Perfect Bayesian Equilibrium (PBE) in dynamic games of incomplete information
 
 ***
 
@@ -55,10 +55,10 @@ order: 3
     - **Kreps, D. M., and J. A. Scheinkman (1983):** “Quantity Precommitment and Bertrand Competition Yield Cournot Outcomes,” *Bell Journal of Economics*, 14(2), 326–337.  
     - **Klemperer, P. D., and M. A. Meyer (1989):** “Supply Function Equilibria in Oligopoly under Uncertainty,” *Econometrica*, 57(6), 1243–1277.  
     
-    * Bertand competition and its variants with asymmetric costs, capacity constraint, uncertain costs; DRS(IRS) technology;  
-    * Capacity-then-Bertrand Competition;  
-    * Commitment and Stackelberg Model;  
-    * (**Optional**) Supply Function Equilibrium (SFE).  
+* Bertand competition and its variants with asymmetric costs, capacity constraint, uncertain costs; DRS(IRS) technology;  
+* Capacity-then-Bertrand Competition;  
+* Commitment and Stackelberg Model;  
+* (**Optional**) Supply Function Equilibrium (SFE).  
     
 ***
 
@@ -71,11 +71,11 @@ order: 3
     - **Wolfram, C. D. (1999):** “Measuring Duopoly Power in the British Electricity Spot Market,” *American Economic Review*, 89(4), 805–826.  
     - **Sweeting, A. (2007):** “Market Power in the England and Wales Wholesale Electricity Market 1995-2000,” *Economic Journal*, 117(520), 654–685.  
     
-    * Identification of marginal cost and/or market conduct(or structure or ownership) for markets with
-      - homogeneous products;  
-      - differentiated products;  
-      - multiproduct.  
-    * Estimation using IV and GMM  
+* Identification of marginal cost and/or market conduct(or structure or ownership) for markets with
+  - homogeneous products;  
+  - differentiated products;  
+  - multiproduct.  
+* Estimation using IV and GMM  
 
     <span style="border-bottom:1.5px solid">**Empirical Applications:** </span>  
     - **Genesove, D., and W. P. Mullin (1998):** “Testing Static Oligopoly Models: Conduct and Cost in the Sugar Industry, 1890-1914,” *The RAND Journal of Economics*, 29(2), 355–377.
@@ -92,9 +92,9 @@ order: 3
     - **Wolak, F. A. (2003):** “Measuring Unilateral Market Power in Wholesale Electricity Markets: The California Market, 1998-2000,” *American Economic Review*, 93(2), 425–430.  
     - **Hortaçsu, A., and S. L. Puller (2008):** “Understanding Strategic Bidding in Multi-Unit Auctions: A Case Study of the Texas Electricity Spot Market,” *RAND Journal of Economics*, 39(1), 86–114.  
     
-    * Standard auctions and bidding strategies;  
-    * Revenue Equivalence Theorem and optimal auction;  
-    * Identification of standard auctions in symmetric IPV paradigm.  
+* Standard auctions and bidding strategies;  
+* Revenue Equivalence Theorem and optimal auction;  
+* Identification of standard auctions in symmetric IPV paradigm.  
     
     <span style="border-bottom:1.5px solid">**Empirical Applications:** </span>  
     - **Wolak, F. A. (2003):** “Measuring Unilateral Market Power in Wholesale Electricity Markets: The California Market, 1998-2000,” *American Economic Review*, 93(2), 425–430.  
