@@ -30,7 +30,7 @@ Graduate-level coursework on microeconomics and econometrics is required, prefer
 ***
 
 ## Evaluation  
-The final evaluation will base on the class participation, including discussion (20\%) and presentations (30\%) and a replication of classical papers (50\%).
+The final evaluation will base on the class participation, including discussion (20%) and presentations (30%) and a replication of classical papers (50%).
 
 ### Presentation
 Depending on the size of final enrollment and class schedule, each student (or group of students) will be required to present 1 − 2 research papers. Each presentation should last for 60 minutes including questions and responses. The presentation should
@@ -41,7 +41,7 @@ Depending on the size of final enrollment and class schedule, each student (or g
 
 ### Replication
 For each student (or group of students), I will assign a classical paper to replicate using R / Python. You may use another programming language if you wish, but I expect that will be more difficult. You may also find the paper of your interest to replicate, but it has to involve structural estimation and you should discuss your choice of paper(s) with me. Eventually, you need submit a summarized draft with code in ONE Jupyter notebook file.
-- 30\% for the code and the generated results (tables and graphs): integrity and clarity;  
-- 20\% for the summary.
+- 30% for the code and the generated results (tables and graphs): integrity and clarity;  
+- 20% for the summary.
 
 ***
