@@ -12,9 +12,9 @@ order: 3
      - **Reiss, P. C., and F. A. Wolak (2007):** "Structural Econometric Modeling: Rationales and Examples from Industrial Organization," in *Handbook of Econometrics*, vol. 6, pp. 4277–4415.  
      - Chapter 1 of **Aguirregabiria(2021).**
      
-* Economic questions and data in EIO;  
-* Examples of structural models in EIO;  
-* Skills required to conduct EIO researches.
+  * Economic questions and data in EIO;  
+  * Examples of structural models in EIO;  
+  * Skills required to conduct EIO researches.
 
 ***
 
