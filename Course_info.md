@@ -22,6 +22,7 @@ order: 1
 ## Syllabus
 - Official syllabus([pdf](/Empirical-IO-Course/Syllabus-EIO-RUC-2022-Fall-EN.pdf))
 - 教学大纲([pdf](/Empirical-IO-Course/Syllabus-EIO-RUC-2022-Fall-CN.pdf))
+
 ***
 
 ## Prerequisites  
