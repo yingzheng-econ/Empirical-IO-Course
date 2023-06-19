@@ -5,7 +5,7 @@ order: 4
 ---
 ***
 
-Students can pick the suggested topics below for presentation. Please take the suggested papers as the starting point and supplement institutional and theoretical background in your presentation.
+Student presentation is planned in In weeks 15 - 17. You can choose from the suggested topics below for pre- sentation. Please take the suggested papers as the starting point and supplement institutional and theoretical background in your presentation.
 
 ### Topic 1: Automobile Lottery v.s. Auction in China  
 - **Li, S. (2018):** "Better Lucky Than Rich? Welfare Analysis of Automobile Licence Allocations in Beijing and Shanghai," *Review of Economic Studies*, 85(4), 2389–2428.  

@@ -144,7 +144,7 @@ order: 3
 
 ***
 
-- ### Lecture 13&14: Application: Static games of incomplete information with non-equilibrium beliefs
+- ### Lecture 13&14: Advanced Topic: Games with Non-equilibrium Beliefs
 
     <span style="border-bottom:1.5px solid">**Required Reading:** </span>  
     - **Camerer, C. F., T.-H. Ho, and J.-K. Chong (2004):** “A Cognitive Hierarchy Model of Games,” *The Quarterly Journal of Economics*, 119(3), 861–898.
