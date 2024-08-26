@@ -15,7 +15,6 @@ order: 1
 **Class Hours:** Monday 6 - 8:30pm  
 **Class Location:** Lide Building 0504  
 **Credit Hours:** 3/51  
-**Course Web:** https://yingzheng-econ.github.io/Empirical-IO-Course/
 
 ***
 
